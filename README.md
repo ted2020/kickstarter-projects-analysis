@@ -5,10 +5,6 @@
 ###### logistic regression
 ###### randomforest
 
-
-#### Kickstarter Projects Analysis
-Ted Dogan
-
 Abstract
 
 Crowdsourcing platforms allows individuals with creative ideas to reach out to vast number of potential investors, including all scales of contributions. The dataset that’s been used for this project is from Kaggle.com. It includes near 400 thousands projects and 25 variables for each project. Aim of this is to create a prediction algorithm whether a project will be successful amongst the diverse universe of projects. The analysis gives an idea about the possible high funding times of a year and a month, countries that are using the platform the most and currencies that are the most preferred, what sorts of projects receive excess funding by main and sub-category, time lengths of projects, and wordcloud of projects’ titles. Finally, I predict the successful projects by using logistic regression, randomforest, and wordcloud keywords. The results provide a simplistic understanding of the platform and the ways the creators may modify their ideas to be funded.
