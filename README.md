@@ -1,18 +1,13 @@
 ### kickstarter projects analysis
-
-#### explore the data
-
-#### visualize the data
-
-#### wordcloud and wordcloud prediction
-
-#### logistic regression
-
-#### randomforest
+ explore the data
+ visualize the data
+ wordcloud and wordcloud prediction
+ logistic regression
+ randomforest
 
 
 #### Kickstarter Projects Analysis
-Tuncay Dogan
+Ted Dogan
 
 Abstract
 
